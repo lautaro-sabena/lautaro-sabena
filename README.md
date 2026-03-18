@@ -74,7 +74,7 @@ Personal minimal portfolio built with modern frontend stack.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lautaro-sabena&layout=compact&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.demolab.com/?user=lautaro-sabena&theme=tokyonight)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=lautaro-sabena&theme=tokyonight&hide_border=true&type=compact)
 
 ---
 
