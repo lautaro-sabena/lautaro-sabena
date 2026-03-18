@@ -1,7 +1,6 @@
-# Hi, I'm Lautaro 👋
+# Hi, I'm Lautaro <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-💻 Fullstack Software Engineer  
-🚀 Building scalable web applications with .NET and modern frontend technologies  
+<img src="https://readme-typing-svg.demolab.com/?font=jetbrains%20mono&size=22&duration=3000&pause=500&color=7DFFF7&multiline=true&width=600&height=40&lines=Fullstack%20Software%20Engineer%20;Building%20scalable%20web%20applications" alt="Typing SVG" />
 
 ---
 
