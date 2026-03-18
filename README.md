@@ -70,11 +70,12 @@ Personal minimal portfolio built with modern frontend stack.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lautaro-sabena&show_icons=true&theme=tokyonight&count_total=true)
+![lautaro-sabena's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lautaro-sabena&theme=merko&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lautaro-sabena&layout=compact&theme=tokyonight)
+![lautaro-sabena's Stats](https://github-readme-stats.vercel.app/api?username=lautaro-sabena&theme=merko&show_icons=true&hide_border=false&count_private=true)
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=lautaro-sabena&theme=tokyonight&hide_border=true&type=compact)
+![lautaro-sabena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lautaro-sabena&theme=merko&show_icons=true&hide_border=false&layout=compact)
+
 
 ---
 
